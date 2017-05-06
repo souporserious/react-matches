@@ -114,7 +114,7 @@ Children must be a function. It returns the following back:
 
   ```js
   {
-    containerRef, // if tag is false, you mush pass the containerRef down to the component you want measured
+    containerRef, // if tag is false, you must pass the containerRef down to the component you want measured
     matches, // an object matching your queries shape with active queries
     resolve // an easier way to work with multiple boolean operations
   }
