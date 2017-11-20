@@ -1,4 +1,7 @@
 ## CHANGELOG
+### 0.2.1
+Only return props in `resolveProps` function
+
 ### 0.2.0
 Upgrade `resize-observer-polyfill` to `1.5.0`
 
