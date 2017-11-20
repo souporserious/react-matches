@@ -1,6 +1,6 @@
 {
   "name": "react-matches",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description":
     "Simple helper components to make responsive design easier in React.",
   "main": "lib/index.js",
