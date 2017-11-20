@@ -1,12 +1,10 @@
 {
   "name": "react-matches",
   "version": "0.1.0",
-  "description": "Simple helper components to make responsive design easier in React.",
+  "description":
+    "Simple helper components to make responsive design easier in React.",
   "main": "lib/index.js",
-  "files": [
-    "dist",
-    "lib"
-  ],
+  "files": ["dist", "lib"],
   "repository": "https://github.com/souporserious/react-matches",
   "author": "Travis Arnold",
   "license": "MIT",
@@ -46,7 +44,7 @@
   },
   "dependencies": {
     "json2mq": "^0.2.0",
-    "resize-observer-polyfill": "^1.4.2"
+    "resize-observer-polyfill": "^1.5.0"
   },
   "peerDependencies": {
     "react": ">0.13.0",
